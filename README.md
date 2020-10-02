@@ -1,5 +1,5 @@
 # Project-Euler
- Trying Solving Project Euler Problem with very simple code
+ Trying Solving Project Euler Problem with very simple  Python3 code
 
 Q1 : Basic knowledge needed! you just need to pick out number that are Multiple by both 3 and 5.
 
