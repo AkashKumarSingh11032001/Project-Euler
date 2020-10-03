@@ -9,3 +9,6 @@ Q3 : Basic Level Code! you need to find prime factor and then pick out the max p
 
 Q4 : Here! we come to some trick problem, In this question we need to find the palidromic number that means we need to pick out the two number that helps to make a pallidrom.
  
+Q5 : This was a basic level looping question! just you need to loop over and find a digit that was divisible by each value in the assigned range.
+
+Q6 : In this I created Two function one for 'sum of square' and other for 'square of sum' and rest jys substract one from other.
