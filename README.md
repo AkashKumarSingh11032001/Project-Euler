@@ -11,4 +11,4 @@ Q4 : Here! we come to some trick problem, In this question we need to find the p
  
 Q5 : This was a basic level looping question! just you need to loop over and find a digit that was divisible by each value in the assigned range.
 
-Q6 : In this I created Two function one for 'sum of square' and other for 'square of sum' and rest jys substract one from other.
+Q6 : In this I created Two function one for 'sum of square' and other for 'square of sum' and rest just substract one from other.
