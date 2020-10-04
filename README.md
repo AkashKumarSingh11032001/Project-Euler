@@ -15,4 +15,4 @@ Q6 : In this I created Two function one for 'sum of square' and other for 'squar
 
 Q7 : Literally! No will tell you the simplest way to handle this question. Please have a Look
 
-Q8 : 
+Q8 : In this question , I used simple list comprehension method and slicing, every this is mention in my code, See it's a simple question with tricky explanation.
