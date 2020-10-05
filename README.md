@@ -16,3 +16,6 @@ Q6 : In this I created Two function one for 'sum of square' and other for 'squar
 Q7 : Literally! No will tell you the simplest way to handle this question. Please have a Look
 
 Q8 : In this question , I used simple list comprehension method and slicing, every this is mention in my code, See it's a simple question with tricky explanation.
+
+Q9 : Don't frighten from name itself (Ah! i got frighten too), You just need to find the three number whiich satisfy pythagoreanous theorym overall question imply that if a ,b ,c satisfy this a^2 +b^2 = c^2 then just add a+b+c.
+
