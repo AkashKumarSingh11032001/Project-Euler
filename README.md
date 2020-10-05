@@ -19,3 +19,4 @@ Q8 : In this question , I used simple list comprehension method and slicing, eve
 
 Q9 : Don't frighten from name itself (Ah! i got frighten too), You just need to find the three number whiich satisfy pythagoreanous theorym overall question imply that if a ,b ,c satisfy this a^2 +b^2 = c^2 then just add a+b+c.
 
+Q10 : Again for you only, i did this question in very compact manner, in this you just needed to find all prime number in under the given range , then just add it.That's All!
