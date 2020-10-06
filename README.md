@@ -23,4 +23,5 @@ Q10 : Again for you only, i did this question in very compact manner, in this yo
 
 Q11 : Actually I completed this question but the main resone for not to post here is that it take about 89 sec to give result,So i'm trying to improve that.
 
+Q12 : Here once again , we don't needed any fast and furious concept ro solve this question , Please have a look on code.
 
