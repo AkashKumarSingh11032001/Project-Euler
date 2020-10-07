@@ -27,3 +27,4 @@ Q12 : Here once again , we don't needed any fast and furious concept ro solve th
 
 Q13 : Simply Sum each line and just print first 10 number.
 
+Q14 : This question I done with C language but got an error while excuting with python, still trying but needed sometime. Sorry for your inconvinience!
