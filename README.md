@@ -25,3 +25,5 @@ Q11 : Actually I completed this question but the main resone for not to post her
 
 Q12 : Here once again , we don't needed any fast and furious concept ro solve this question , Please have a look on code.
 
+Q13 : Simply Sum each line and just print first 10 number.
+
