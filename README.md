@@ -29,6 +29,6 @@ Q13 : Simply Sum each line and just print first 10 number.
 
 Q14 : This question I done with C language but got an error while excuting with python, still trying but needed sometime. Sorry for your inconvinience!
 
-Q15 : 
+Q15 : I'm sure that more than 90% will get frighten but belevie me if you know little bit understanding of factorial/permutation/combination then i'm sure you wil get this.
 
 Q16 : In this question you just need to find the nth power of 2 and then just split the value and add it.
